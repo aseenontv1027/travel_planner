@@ -41,7 +41,7 @@ APIs used were DarkSky: Forecast and Time Machine, Google: Maps JavaScript, Plac
 ## Authors
 
 * Alan Mo: https://www.linkedin.com/in/alan-mo-a5377b144/
-* Kaiteng Lo: https://www.linkedin.com/in/kaiteng-lo-968b2697/
+* Kaiteng Lo: https://www.linkedin.com/in/kaitengl1027/
 * Jashan Brar: https://www.linkedin.com/in/jashan-brar/
 
 ## License
